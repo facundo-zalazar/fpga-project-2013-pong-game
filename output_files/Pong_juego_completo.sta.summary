@@ -1,0 +1,109 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clk'
+Slack : -13.622
+TNS   : -1245.105
+
+Type  : Slow Model Setup 'multiplayer'
+Slack : -12.975
+TNS   : -145.019
+
+Type  : Slow Model Setup 'reset'
+Slack : -12.482
+TNS   : -144.751
+
+Type  : Slow Model Hold 'reset'
+Slack : -3.230
+TNS   : -39.927
+
+Type  : Slow Model Hold 'multiplayer'
+Slack : -2.722
+TNS   : -25.980
+
+Type  : Slow Model Hold 'clk'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'multiplayer'
+Slack : -0.258
+TNS   : -0.436
+
+Type  : Slow Model Recovery 'clk'
+Slack : -0.194
+TNS   : -8.137
+
+Type  : Slow Model Removal 'multiplayer'
+Slack : -0.482
+TNS   : -0.879
+
+Type  : Slow Model Removal 'clk'
+Slack : -0.121
+TNS   : -1.553
+
+Type  : Slow Model Minimum Pulse Width 'clk'
+Slack : -1.631
+TNS   : -257.029
+
+Type  : Slow Model Minimum Pulse Width 'multiplayer'
+Slack : -1.631
+TNS   : -113.665
+
+Type  : Slow Model Minimum Pulse Width 'reset'
+Slack : -1.631
+TNS   : -29.593
+
+Type  : Fast Model Setup 'clk'
+Slack : -4.623
+TNS   : -349.820
+
+Type  : Fast Model Setup 'multiplayer'
+Slack : -3.993
+TNS   : -37.343
+
+Type  : Fast Model Setup 'reset'
+Slack : -3.877
+TNS   : -39.922
+
+Type  : Fast Model Hold 'reset'
+Slack : -1.635
+TNS   : -22.098
+
+Type  : Fast Model Hold 'multiplayer'
+Slack : -1.441
+TNS   : -15.033
+
+Type  : Fast Model Hold 'clk'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'multiplayer'
+Slack : 0.288
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'clk'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Fast Model Removal 'clk'
+Slack : -0.343
+TNS   : -18.269
+
+Type  : Fast Model Removal 'multiplayer'
+Slack : -0.227
+TNS   : -0.418
+
+Type  : Fast Model Minimum Pulse Width 'clk'
+Slack : -1.380
+TNS   : -210.380
+
+Type  : Fast Model Minimum Pulse Width 'multiplayer'
+Slack : -1.380
+TNS   : -9.564
+
+Type  : Fast Model Minimum Pulse Width 'reset'
+Slack : -1.380
+TNS   : -1.380
+
+------------------------------------------------------------

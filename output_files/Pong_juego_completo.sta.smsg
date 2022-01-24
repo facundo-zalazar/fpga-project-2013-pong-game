@@ -1,0 +1,5 @@
+Warning (20028): Parallel compilation is not licensed and has been disabled
+Warning (335093): TimeQuest Timing Analyzer is analyzing 61 combinational loops as latches.
+Critical Warning (332012): Synopsys Design Constraints File file not found: 'Pong_juego_completo.sdc'. A Synopsys Design Constraints File is required by the TimeQuest Timing Analyzer to get proper timing constraints. Without it, the Compiler will not properly optimize the design.
+Critical Warning (332148): Timing requirements not met
+Critical Warning (332148): Timing requirements not met
